@@ -11,3 +11,7 @@
 - iOS 8.0 or later
 - ARC
 - Swift 3.0 or later
+
+# Usage
+
+一个文件AbovePopBackVC.swift，继承此类即可
